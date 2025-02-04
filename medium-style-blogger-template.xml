@@ -230,7 +230,7 @@ pre {
         <!-- Navbar -->
         <nav>
             <div class="menu-links">
-                <a href="https://solomontessema.github.io" target="_blank" title="Website">
+                <a href="https://solomontessema.com" target="_blank" title="Website">
                     <i class="fas fa-globe"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/solomon-tessema" target="_blank" title="LinkedIn">
@@ -245,7 +245,7 @@ pre {
                 <a href="https://public.tableau.com/profile/solomontessema/vizzes" target="_blank" title="Tableau">
                     <i class="fas fa-chart-bar"></i>
                 </a>
-                <a href="https://datascienceelements.blogspot.com" target="_blank" title="Blogger">
+                <a href="https://ai.solomontessema.com" target="_blank" title="Blogger">
                     <i class="fab fa-blogger"></i>
                 </a>
             </div>
